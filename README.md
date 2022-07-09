@@ -2,7 +2,7 @@
 
 # Description
 
-* Complete refractoring of attached website without changing what it does
+* This challenge was to refactor HTML and CSS code for the website "Horiseon" to become more accessible. The end result of these changes was to organize and correct the HTML & CSS files without changing the appearance or structure of the webpage.
 
 # Changelog
 
