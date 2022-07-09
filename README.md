@@ -18,7 +18,7 @@
 * https://atlas548.github.io/Challenge-1/ (webpage)
 
 # Requirements
-*MacOS or Windows 10
+* MacOS or Windows 10
 
 # Author
 * Tyler N. Oates - https://github.com/Atlas548
