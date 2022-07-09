@@ -24,6 +24,6 @@
 * Tyler N. Oates - https://github.com/Atlas548
 
 # Screenshot
-
+![Screenshot](/Assets/images/01-html-css-git-homework-demo.png "Horiseon")
 <img src="./Assets/images/01-html-css-git-homework-demo.png01-html-css-git-homework-demo.png"/>
 
