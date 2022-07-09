@@ -13,7 +13,9 @@
   
 
 # Links
-* https://github.com/Atlas548/Challenge-1.git
+
+* https://github.com/Atlas548/Challenge-1.git (Github repository)
+* https://atlas548.github.io/Challenge-1/ (webpage)
 
 # Requirements
 *MacOS or Windows 10
