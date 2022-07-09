@@ -25,5 +25,5 @@
 
 # Screenshot
 
-<img src="01-html-css-git-homework-demo.png" alt= "Demo" width="200"/>
+<img src="./Assets/images/01-html-css-git-homework-demo.png01-html-css-git-homework-demo.png"/>
 
