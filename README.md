@@ -10,4 +10,14 @@
 * Optomized index.html by implementing appropriate semantic elements such as Header, Footer, Nav, Section, article, aside, and main to the necessary locations.
 * Updated & added alt attributes to images
 * Deployed descriptive comments to  the index.html & style.css files
-* 
+  
+
+# Links
+* https://github.com/Atlas548/Challenge-1.git
+
+# Requirements
+*MacOS or Windows 10
+
+# Author
+* Tyler N. Oates - https://github.com/Atlas548
+
