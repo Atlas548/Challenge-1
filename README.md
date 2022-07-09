@@ -23,3 +23,7 @@
 # Author
 * Tyler N. Oates - https://github.com/Atlas548
 
+# Screenshot
+
+<img src="01-html-css-git-homework-demo.png" alt= "Demo" width="200"/>
+
