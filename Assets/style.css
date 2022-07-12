@@ -75,26 +75,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
 /* Adjustments for the specific element class to change the color, height, font family, margining, padding, color, and background color to the elements within the class */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* Adjustments for the specific element class to change the color, height, font family, margining, padding, color, and background color to the elements within the class */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* Adjustments for the specific element class to change the color, height, font family, margining, padding, color, and background color to the elements within the class */
-.social-media-marketing {
+.positioning {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -103,29 +86,11 @@ p {
     color: #ffffff;
 }
 /* Sets the max height to 200px for image */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-/* Sets the max height to 200px for image */
-.online-reputation-management img {
-    max-height: 200px;
-}
-/* Sets the max height to 200px for image */
-.social-media-marketing img {
+.positioning img {
     max-height: 200px;
 }
 /* Adjusts the margining & font size fr the h2 elements */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* Adjusts the margining & font size fr the h2 elements */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* Adjusts the margining & font size fr the h2 elements */
-.social-media-marketing h2 {
+.positioning h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -141,49 +106,19 @@ p {
     background-color: #2589bd;
 }
 /* Changes the margin bottom and color for all elements under this class */
-.benefit-lead {
+.benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Changes the margin bottom and color for all elements under this class */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/* Changes the margin bottom and color for all elements under this class */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+
 /* Changes the margin bottom and centering for h3 element under this class */
-.benefit-lead h3 {
+.benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Changes the margin bottom and centering for h3 element under this class */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* Changes the margin bottom and centering for h3 element under this class */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+
 /* Changes to the images under this class  */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* Changes to the images under this class  */
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* Changes to the images under this class  */
-.benefit-cost img {
+.benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
